@@ -1,0 +1,67 @@
+#div{
+    width: 1840px;;
+  height: 1000px;
+  
+  
+  }
+  
+  #topo{
+    width: 1840px; 
+    height: 170px;
+    background-color: rgb(17, 16, 16);
+  text-align: center;
+     
+      
+  }
+  #tabela{
+      width: 300px; 
+      height: 925px;
+      background-color: rgb(64, 243, 9);
+   float: left;
+   text-align: center;
+      
+  }
+  
+  #texto{
+      width: 1540px; 
+      height: 890px;
+      background-color: rgb(255, 255, 255);
+      font-family: 'Times New Roman';
+      text-align: center;
+      float: right;
+      left: 500px;
+      bottom: 820px;
+     
+    
+  }
+  #rodape{
+      width: 1540px ; 
+      height:80px;
+      background-color: rgb(131, 131, 131);
+     float: right;
+     position: relative;
+     bottom: 46px;
+     text-align: center;
+   
+     
+  }
+  
+  #amarelo{
+  background-color: rgb(211, 192, 20);
+  
+
+  padding: 5px;
+  }
+  #verde{
+  background-color: rgb(31, 114, 20);
+  
+ 
+  padding: 5px;
+  }
+  
+  #vermelho{
+      background-color: rgb(124, 22, 22);
+      
+     
+      padding: 5px;
+  }
